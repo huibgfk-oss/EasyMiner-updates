@@ -2,7 +2,7 @@
 
 Public binary downloads. Application source code is maintained separately.
 
-Channel: **chain-test**. GitHub build: **37088507057**, attempt **1**.
+Channel: **chain-test**. GitHub build: **37092795650**, attempt **1**.
 
 These are EasyMiner Test builds, not the stable application.
 The data below is the machine-readable update manifest. Parts are immutable; verify each SHA256 and the reconstructed executable/APK before installation.
@@ -18,17 +18,17 @@ The data below is the machine-readable update manifest. Parts are immutable; ver
       "status": "success",
       "channel": "chain-test",
       "platform": "windows",
-      "version_code": 105301,
-      "version_name": "Build 105301",
-      "commit": "a42b6646fe3fb81ca7a59a60ab90ac6e39bdc912",
-      "bytes": 59366909,
-      "sha256": "5650a8d122c17d2f8b9734728e22fded3e3a688eed53c05218d2b2aa37f26c98",
+      "version_code": 105501,
+      "version_name": "Build 105501",
+      "commit": "89735ccb957491c76fa73c7cfd4b9406ef4eff15",
+      "bytes": 59367997,
+      "sha256": "72dac912170b9ed08234a9e86a63b5ef9b5d8f65b5c1e0fbd5e8eebff27d6c24",
       "package": "",
       "parts": [
         {
-          "path": "builds/37088507057-1/windows/part-001",
-          "bytes": 59366909,
-          "sha256": "5650a8d122c17d2f8b9734728e22fded3e3a688eed53c05218d2b2aa37f26c98"
+          "path": "builds/37092795650-1/windows/part-001",
+          "bytes": 59367997,
+          "sha256": "72dac912170b9ed08234a9e86a63b5ef9b5d8f65b5c1e0fbd5e8eebff27d6c24"
         }
       ]
     },
@@ -37,17 +37,17 @@ The data below is the machine-readable update manifest. Parts are immutable; ver
       "status": "success",
       "channel": "chain-test",
       "platform": "android",
-      "version_code": 105301,
-      "version_name": "Build 105301",
+      "version_code": 105501,
+      "version_name": "Build 105501",
       "commit": "99e19e16e84bd1d7ec27b2f83177d166c4a2091d",
       "bytes": 2849318,
-      "sha256": "7f494606bdf8da247167468810f60b9f3b32e055a48854dd8d1ee3ff34ce7e29",
+      "sha256": "2417fc64aa59c8c1a0750a1ae36b5449a707eff02d11a9890816d071f1dd7632",
       "package": "net.easyminer.app.chaintest",
       "parts": [
         {
-          "path": "builds/37088507057-1/android/part-001",
+          "path": "builds/37092795650-1/android/part-001",
           "bytes": 2849318,
-          "sha256": "7f494606bdf8da247167468810f60b9f3b32e055a48854dd8d1ee3ff34ce7e29"
+          "sha256": "2417fc64aa59c8c1a0750a1ae36b5449a707eff02d11a9890816d071f1dd7632"
         }
       ]
     },
@@ -56,17 +56,17 @@ The data below is the machine-readable update manifest. Parts are immutable; ver
       "status": "success",
       "channel": "chain-test",
       "platform": "android8plus",
-      "version_code": 105301,
-      "version_name": "Build 105301",
-      "commit": "269748358355231a2895ee40c06a1a3a5bb352e6",
-      "bytes": 2276942,
-      "sha256": "274c73d4340c5d43a4f81ea85f2c9da62c81c760788d4bcb8f17236df8f93760",
+      "version_code": 105501,
+      "version_name": "Build 105501",
+      "commit": "778c45ca4c696371422a06356cb5e271e766cab7",
+      "bytes": 2277250,
+      "sha256": "9bf633be3a65f51310d8554508d822434d0a242ec522e90c9b05198076075bc6",
       "package": "net.easyminer.app.chaintest",
       "parts": [
         {
-          "path": "builds/37088507057-1/android8plus/part-001",
-          "bytes": 2276942,
-          "sha256": "274c73d4340c5d43a4f81ea85f2c9da62c81c760788d4bcb8f17236df8f93760"
+          "path": "builds/37092795650-1/android8plus/part-001",
+          "bytes": 2277250,
+          "sha256": "9bf633be3a65f51310d8554508d822434d0a242ec522e90c9b05198076075bc6"
         }
       ]
     }
