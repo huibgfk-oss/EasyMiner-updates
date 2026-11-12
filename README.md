@@ -28,7 +28,8 @@ The data below is the machine-readable update manifest. Parts are immutable; ver
           "sha256": "35ac6dfb31557b2bf77a019586c5042078523bf391b9ace56a3c33f065fc7fd9"
         }
       ],
-      "version_name": "0.17.9-chain-test-105915"
+      "version_name": "0.17.9-chain-test-105915",
+      "package": ""
     },
     "android": {
       "schema": 1,
@@ -45,7 +46,8 @@ The data below is the machine-readable update manifest. Parts are immutable; ver
           "sha256": "583fb501605d31538f46cb8fb8f661fb47212222d81c9740de43ebeac9f796d1"
         }
       ],
-      "version_name": "0.17.9-chain-test-105915"
+      "version_name": "0.17.9-chain-test-105915",
+      "package": "net.easyminer.app.chaintest"
     },
     "android8plus": {
       "schema": 1,
@@ -62,7 +64,8 @@ The data below is the machine-readable update manifest. Parts are immutable; ver
           "sha256": "679f1fee4cc845a330e7f3bf716aefa41ec6d3b7bd7fbbac1d3582e19796582a"
         }
       ],
-      "version_name": "0.17.9-chain-test-105915"
+      "version_name": "0.17.9-chain-test-105915",
+      "package": "net.easyminer.app.chaintest"
     }
   }
 }
