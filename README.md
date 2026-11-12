@@ -16,57 +16,48 @@ The data below is the machine-readable update manifest. Parts are immutable; ver
     "windows": {
       "schema": 1,
       "status": "success",
-      "channel": "chain-test",
       "platform": "windows",
-      "version_code": 107501,
-      "version_name": "Build 107501",
-      "commit": "5054f2614ab24f0526261edf17bfdf059ace9d96",
-      "bytes": 59536849,
-      "sha256": "e21c16060561e95a196d4553dd50f156daf12231be8414d51bc5231a2de17093",
-      "package": "",
+      "channel": "chain-test",
+      "version_code": 107502,
+      "bytes": 59742977,
+      "sha256": "35ac6dfb31557b2bf77a019586c5042078523bf391b9ace56a3c33f065fc7fd9",
       "parts": [
         {
-          "path": "builds/38902073001-1/windows/part-001",
-          "bytes": 59536849,
-          "sha256": "e21c16060561e95a196d4553dd50f156daf12231be8414d51bc5231a2de17093"
+          "path": "builds/43237615705-1/windows/part-001",
+          "bytes": 59742977,
+          "sha256": "35ac6dfb31557b2bf77a019586c5042078523bf391b9ace56a3c33f065fc7fd9"
         }
       ]
     },
     "android": {
       "schema": 1,
       "status": "success",
-      "channel": "chain-test",
       "platform": "android",
-      "version_code": 107501,
-      "version_name": "Build 107501",
-      "commit": "8b127226b9c8878aed5af4bd5bb12e9970b4bb18",
-      "bytes": 2914766,
-      "sha256": "726b3cbaf672523bf21b51f5d76346f6324619a069190be971f27862cbd4ed90",
-      "package": "net.easyminer.app.chaintest",
+      "channel": "chain-test",
+      "version_code": 107502,
+      "bytes": 2939186,
+      "sha256": "583fb501605d31538f46cb8fb8f661fb47212222d81c9740de43ebeac9f796d1",
       "parts": [
         {
-          "path": "builds/38902073001-1/android/part-001",
-          "bytes": 2914766,
-          "sha256": "726b3cbaf672523bf21b51f5d76346f6324619a069190be971f27862cbd4ed90"
+          "path": "builds/43237615705-1/android/part-001",
+          "bytes": 2939186,
+          "sha256": "583fb501605d31538f46cb8fb8f661fb47212222d81c9740de43ebeac9f796d1"
         }
       ]
     },
     "android8plus": {
       "schema": 1,
       "status": "success",
-      "channel": "chain-test",
       "platform": "android8plus",
-      "version_code": 107501,
-      "version_name": "Build 107501",
-      "commit": "ddb2128425fe7e0f568f0dabee9aabcf9938a9ec",
-      "bytes": 2308502,
-      "sha256": "12a0961889aba86f713816d7e9347012d6b4738371b22f712a5d38ba2c3d246e",
-      "package": "net.easyminer.app.chaintest",
+      "channel": "chain-test",
+      "version_code": 107502,
+      "bytes": 2319686,
+      "sha256": "679f1fee4cc845a330e7f3bf716aefa41ec6d3b7bd7fbbac1d3582e19796582a",
       "parts": [
         {
-          "path": "builds/38902073001-1/android8plus/part-001",
-          "bytes": 2308502,
-          "sha256": "12a0961889aba86f713816d7e9347012d6b4738371b22f712a5d38ba2c3d246e"
+          "path": "builds/43237615705-1/android8plus/part-001",
+          "bytes": 2319686,
+          "sha256": "679f1fee4cc845a330e7f3bf716aefa41ec6d3b7bd7fbbac1d3582e19796582a"
         }
       ]
     }
