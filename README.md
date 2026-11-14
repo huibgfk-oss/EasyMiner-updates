@@ -18,17 +18,17 @@ The data below is the machine-readable update manifest. Parts are immutable; ver
       "status": "success",
       "platform": "windows",
       "channel": "chain-test",
-      "version_code": 107505,
-      "bytes": 59815691,
-      "sha256": "1575e70443d390b408fc1228151ad4f97ec625466e2d6c38b495c9c550a2f457",
+      "version_code": 107506,
+      "bytes": 59689120,
+      "sha256": "2c4ee415dd8aa8acab025c73534c008ab632947a9dabdf181d8e997902b77b17",
       "parts": [
         {
-          "path": "builds/43408714933-1/windows/part-001",
-          "bytes": 59815691,
-          "sha256": "1575e70443d390b408fc1228151ad4f97ec625466e2d6c38b495c9c550a2f457"
+          "path": "builds/43557832924-1/windows/part-001",
+          "bytes": 59689120,
+          "sha256": "2c4ee415dd8aa8acab025c73534c008ab632947a9dabdf181d8e997902b77b17"
         }
       ],
-      "version_name": "0.17.9-chain-test-105918",
+      "version_name": "0.17.9-chain-test-105921",
       "package": ""
     },
     "android": {
@@ -36,17 +36,17 @@ The data below is the machine-readable update manifest. Parts are immutable; ver
       "status": "success",
       "platform": "android",
       "channel": "chain-test",
-      "version_code": 107505,
-      "bytes": 3437832,
-      "sha256": "921b2eb4d2cb8e27286841c5e24ad643b767ba15bff44f584ad2adab23658cdc",
+      "version_code": 107506,
+      "bytes": 14757403,
+      "sha256": "586c02e822c85fc2ff352eaf0bab5fa64eaeb2aaaec97e42ca226a5e7754376f",
       "parts": [
         {
-          "path": "builds/43408714933-1/android/part-001",
-          "bytes": 3437832,
-          "sha256": "921b2eb4d2cb8e27286841c5e24ad643b767ba15bff44f584ad2adab23658cdc"
+          "path": "builds/43557832924-1/android/part-001",
+          "bytes": 14757403,
+          "sha256": "586c02e822c85fc2ff352eaf0bab5fa64eaeb2aaaec97e42ca226a5e7754376f"
         }
       ],
-      "version_name": "0.17.9-chain-test-105918",
+      "version_name": "0.17.9-chain-test-105921",
       "package": "net.easyminer.app.chaintest"
     },
     "android8plus": {
@@ -54,17 +54,17 @@ The data below is the machine-readable update manifest. Parts are immutable; ver
       "status": "success",
       "platform": "android8plus",
       "channel": "chain-test",
-      "version_code": 107505,
-      "bytes": 2519664,
-      "sha256": "bd6fc25b24f2087962805e50faa15ff8a6ef24d41e81f640e1ea84247d21ebad",
+      "version_code": 107506,
+      "bytes": 13823731,
+      "sha256": "8a8cd4b314fa74dd47e6ed0bef4a46c33b818ac7dd1030850c9b6fbe4a971f88",
       "parts": [
         {
-          "path": "builds/43408714933-1/android8plus/part-001",
-          "bytes": 2519664,
-          "sha256": "bd6fc25b24f2087962805e50faa15ff8a6ef24d41e81f640e1ea84247d21ebad"
+          "path": "builds/43557832924-1/android8plus/part-001",
+          "bytes": 13823731,
+          "sha256": "8a8cd4b314fa74dd47e6ed0bef4a46c33b818ac7dd1030850c9b6fbe4a971f88"
         }
       ],
-      "version_name": "0.17.9-chain-test-105918",
+      "version_name": "0.17.9-chain-test-105921",
       "package": "net.easyminer.app.chaintest"
     }
   }
